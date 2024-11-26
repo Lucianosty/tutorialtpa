@@ -1,0 +1,3 @@
+do
+  declaracao
+while (condicao);
